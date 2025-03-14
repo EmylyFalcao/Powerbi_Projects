@@ -30,7 +30,7 @@ Impact:
 The report improved visibility into end-to-end service costs, streamlined operational reporting, and supported strategic decisions around pricing, fulfillment strategies, and resource planning.
 
 
-## Demonstração
+## Demo
 
 ![Image](https://github.com/user-attachments/assets/d3ddea93-706b-43fa-924d-603dfa8beb0a)
 
