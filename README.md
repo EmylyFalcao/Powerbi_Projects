@@ -11,7 +11,7 @@ The dashboard provides a holistic view of the cost drivers involved in serving e
 ## Key Features:
 
 Data Integration: Combined datasets from finance, warehouse operations, and order management to build a unified analytical model.
-Dynamic Reporting: Created a Power BI dashboard (or Excel model, if applicable) with filterable views by brand, date, cost category, and activity type.
+Dynamic Reporting: Created a Power BI dashboard with filterable views by brand, date, cost category, and activity type.
 
 KPIs and Metrics:
 Finance Cost per Unit / Order
