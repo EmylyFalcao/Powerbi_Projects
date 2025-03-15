@@ -26,7 +26,7 @@ Actionable Insights: Enabled business users to identify high-cost brands, analyz
 ## Tools Used:
 Python (data generation), Power BI, Dataflows, DAX, SQL, OpenPyXL / Pandas.
 
-Impact:
+## Impact:
 The report improved visibility into end-to-end service costs, streamlined operational reporting, and supported strategic decisions around pricing, fulfillment strategies, and resource planning.
 
 
